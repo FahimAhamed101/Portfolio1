@@ -1,7 +1,7 @@
 import NextLink from 'next/link'
 
 import FeelingProud from '../components/greeting/FeelingProud';
-import themes from './theme'
+
 import {
   Link,
   Container,
@@ -36,7 +36,7 @@ const Home = () => (
 
    
     <Box display="grid"    >
-    <FeelingProud theme={themes}  />
+    <FeelingProud  />
     
 </Box>
     

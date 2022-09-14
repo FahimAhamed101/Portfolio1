@@ -1,5 +1,6 @@
 // Theme Presets
 
+
 const themes = {
   name: "light",
   body: "#FFFFFF",
@@ -33,5 +34,7 @@ const darkTheme = {
   avatarMisc: "#212121",
   avatarShoes: "#2B2B2B",
 };
+
+
 
 export default themes
