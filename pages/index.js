@@ -178,7 +178,7 @@ const Home = () => (
         </List>
 
         <Box align="center" my={4}>
-          <NextLink href="https://drive.google.com/file/d/1VSX6PDPgWi0dXcZERln95bWJJVmZMi_e/view?usp=sharing" passHref scroll={false}>
+          <NextLink href="https://drive.google.com/file/d/1mMZ1hGT70zHxNzkeNNRiRKAR3JOZzZrU/view?usp=sharing" passHref scroll={false}>
             <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
             <a href="https://drive.google.com/file/d/1VSX6PDPgWi0dXcZERln95bWJJVmZMi_e/view?usp=sharing">Download Resume</a> 
             </Button>
